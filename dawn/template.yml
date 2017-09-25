@@ -14,6 +14,10 @@ node:
   location: dn-template-node
   summary: Blank node project template
 
+angular:
+  location: dn-template-angular
+  summary: Angular project template
+
 middleware:
   location: dn-template-middleware
   summary: Dawn middleware project template
